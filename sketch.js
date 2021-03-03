@@ -33,6 +33,7 @@ var truckDamage = 50;
 var SD = null;
 var PLAY = 1;
 var MENU = 2;
+
 var CONT = 3;
 var gameState = MENU;
 var startButton, soundButton;
